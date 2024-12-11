@@ -1,0 +1,26 @@
+{
+  "private": false,
+  "name": "random-string-inline-generator",
+  "version": "0.0.1",
+  "description": "Get a random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferjanikarimm/random-string.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "js",
+    "function"
+  ],
+  "author": "Karim Ferjani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferjanikarimm/random-string/issues"
+  },
+  "homepage": "https://github.com/ferjanikarimm/random-string#readme"
+}
